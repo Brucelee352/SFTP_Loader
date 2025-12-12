@@ -1,12 +1,11 @@
 """
 sFTP Loader v5:
 
-Manipulates sFTP buckets for school district use.  
+Manipulates sFTP buckets.  
 
 Purposes: File Transfer over sFTP, Handling Permissions and manipulating 
 directories/listing files.* 
 
-*Main as listed for a district in mSupport = /home/ as main path in sFTP
 **Type exit at any point to terminate program. 
 
 """
@@ -356,4 +355,5 @@ def main():
 
 if __name__ == "__main__":
     main()
+
         
